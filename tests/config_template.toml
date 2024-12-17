@@ -1,0 +1,8 @@
+[[paths]]
+name = "server_name"
+host = "your_server_ip"
+port = 22
+username = "your_username"
+local_path = "/target/local/path"
+remote_path = "/target/remote/path"
+private_key_path = "/Users/you/.ssh/id_rsa"

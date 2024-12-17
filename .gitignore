@@ -19,3 +19,10 @@ Cargo.lock
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+# Apple Desktop services store
+.DS_Store
+
+# tests
+tests/wk
+tests/config.toml
